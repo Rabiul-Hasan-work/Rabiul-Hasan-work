@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Rabiul, friends and collegue calls me naim
+- 👋 Hi, I’m Rabiul, friends and colleague calls me naim
 - 👀 I’m interested in Java, new tech, tools and video games
