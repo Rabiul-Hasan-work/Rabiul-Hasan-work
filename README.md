@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Rabiul
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning DevOps and spring framework
+- 👋 Hi, I’m Rabiul, friends and collegue calls me naim
+- 👀 I’m interested in Java, new tech, tools and video games
