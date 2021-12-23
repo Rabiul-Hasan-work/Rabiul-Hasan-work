@@ -30,10 +30,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
- <abc>
-  <br>
-    <div class="tenor-gif-embed" data-postid="14523035" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/goblinslayer-gif-14523035">Goblinslayer GIF</a>from <a href="https://tenor.com/search/goblinslayer-gifs">Goblinslayer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- </abc>
+![Alt Text](https://tenor.com/view/goblinslayer-gif-14523035)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
