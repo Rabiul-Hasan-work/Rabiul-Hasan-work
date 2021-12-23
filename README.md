@@ -30,6 +30,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+ <abc>
+  <br>
+    <img src="https://tenor.com/view/goblinslayer-gif-14523035" alt="Coder GIF" width="500">
+ </abc>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on SpringBoot, Flask and React
