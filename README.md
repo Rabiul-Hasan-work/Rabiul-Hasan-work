@@ -30,6 +30,12 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm currently working on SpringBoot, Flask, React and Selenium
+- :hourglass_flowing_sand:  Exploring Amazon Aws
+- :zap: Fun fact: I love coding and playing video games<br>
+
 
 
 
