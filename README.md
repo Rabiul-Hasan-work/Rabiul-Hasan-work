@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
 
