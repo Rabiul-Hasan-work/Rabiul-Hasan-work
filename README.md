@@ -32,7 +32,7 @@
 
  <abc>
   <br>
-    <img src="https://tenor.com/view/goblinslayer-gif-14523035" alt="Coder GIF" width="500">
+    <div class="tenor-gif-embed" data-postid="14523035" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/goblinslayer-gif-14523035">Goblinslayer GIF</a>from <a href="https://tenor.com/search/goblinslayer-gifs">Goblinslayer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  </abc>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
