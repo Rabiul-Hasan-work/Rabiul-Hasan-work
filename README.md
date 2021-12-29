@@ -39,7 +39,7 @@
 
 
 
-<h2 align="left">:zap:Git Stats:</h2>
+<h2 align="left">:chart_with_upwards_trend:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rabiul-Hasan-work&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabiul-Hasan-work&show_icons=true&theme=radical)
