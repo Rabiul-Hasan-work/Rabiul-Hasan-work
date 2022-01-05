@@ -34,7 +34,6 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on SpringBoot, Flask and React
-- :hourglass_flowing_sand:  Exploring Amazon Aws
 - :zap: Fun fact: I love coding and playing video games<br>
 
 
