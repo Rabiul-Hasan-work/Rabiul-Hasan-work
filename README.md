@@ -32,15 +32,12 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/JKHVVuIwtt3Xhb3SjV/giphy.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on SpringBoot, Flask and React
 - :zap: Fun fact: I love coding and playing video games<br>
 
+![Alt Text](https://media.giphy.com/media/JKHVVuIwtt3Xhb3SjV/giphy.gif)
 
 
 <h2 align="left">:chart_with_upwards_trend: Git Stats:</h2>
