@@ -35,7 +35,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on SpringBoot, Flask and React
-- :zap: Fun fact: I love coding and playing video games<br>
+- :zap: Fun fact: I love problem solving and playing video games<br>
 
 ![Alt Text](https://media.giphy.com/media/JKHVVuIwtt3Xhb3SjV/giphy.gif)
 
