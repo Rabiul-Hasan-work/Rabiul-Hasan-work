@@ -45,9 +45,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rabiul-Hasan-work&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabiul-Hasan-work&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul-Hasan-work&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+ <br> <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Rabiul-Hasan-work&style=for-the-badge">
-  </a>
+  </a><br>
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
