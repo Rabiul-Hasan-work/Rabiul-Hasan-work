@@ -36,7 +36,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on SpringBoot, Flask and React
+- :computer: I'm currently working on SpringBoot, Flask and NodeJs
 - :zap: Fun fact: I love problem solving and playing video games<br>
 
 ![Alt Text](https://media.giphy.com/media/JKHVVuIwtt3Xhb3SjV/giphy.gif)
