@@ -47,11 +47,7 @@
 
 ![Alt Text](https://media.giphy.com/media/JKHVVuIwtt3Xhb3SjV/giphy.gif)
 
-<h2 align="left">📈 Git Stats:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rabiul-Hasan-work&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabiul-Hasan-work&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul-Hasan-work&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
